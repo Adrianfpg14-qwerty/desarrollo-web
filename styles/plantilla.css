@@ -1,0 +1,47 @@
+/* GENERALES */
+body, * {
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid red; */
+}
+
+/* LOGO */
+.logo {
+    margin: auto;
+    display: block;
+}
+.imagen-encabezado{
+    margin-top: 10px;
+    padding-bottom: 5px;
+    margin-bottom: 2px;
+}
+
+
+/* NAV BAR */
+nav {
+    background-color:yellow;
+    border: 1px solid red;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border: 2px solid black;
+}
+ul{
+    display: block;
+    text-align: center;
+}
+li{
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+nav li a:link{
+    text-decoration: none;
+}
+nav li a:visited{
+    text-decoration: none;
+}
+nav li a:hover{
+    text-decoration: none;
+}
+
+

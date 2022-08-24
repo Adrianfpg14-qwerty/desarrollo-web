@@ -1,0 +1,52 @@
+/* CARRUSEL */
+.carrusel{
+    height: 500px;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+.im01{
+    display: block;
+    margin: auto;
+    width:  100%;
+    height: 100%;
+}
+
+
+/* MAIN */
+/* contacto-garantía-envío */
+.contacto-garantia-envio{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div h2{
+    margin-top: 10px;
+    text-align: center;
+    border-top: 1px solid black;
+}
+div p{
+    text-align: center;
+}
+
+.contacto, .garantia, .envio{
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+    margin-left: 2%;
+}
+
+.c{
+    height: 80px;
+}
+
+.ic1{
+    padding-top: 20px;
+    font-size: 5em;    
+    margin-left: 40%;
+}
+.ic2, .ic3{
+    font-size: 5em;   
+    margin-left: 40%;
+}
+
+
