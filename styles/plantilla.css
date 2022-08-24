@@ -11,16 +11,15 @@ body, * {
     display: block;
 }
 .imagen-encabezado{
-    margin-top: 10px;
-    padding-bottom: 5px;
-    margin-bottom: 2px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    background-color: #F7F6DC;
 }
 
 
 /* NAV BAR */
 nav {
-    background-color:yellow;
-    border: 1px solid red;
+    background-color:#FF9551;
     padding-top: 1px;
     padding-bottom: 1px;
     border: 2px solid black;
