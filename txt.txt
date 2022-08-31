@@ -37,6 +37,7 @@ BAJO
 	Ibanez TMB100 bajo eléctrico de 4 cuerdas, Verde
 	US$249.99		
 	
+
 BATERÍAS
 	https://www.amazon.com/-/es/unidades-pulgadas-platillos-baquetas-ajustable/dp/B004Z8ORL6/ref=sr_1_9?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=musical+drum+kit&qid=1661303088&sr=8-9
 	5 unidades 16 pulgadas Mendini por Cecilio junior batería set + platillos, baquetas y ajustable silla., Negro
@@ -45,7 +46,6 @@ BATERÍAS
 	https://www.amazon.com/pulgadas-principiantes-ajustable-platillo-baquetas/dp/B07WC3138P/ref=sxin_14_pa_sp_search_thematic_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&content-id=amzn1.sym.d4978b9a-5243-45e6-8cda-2cbab7f4b27b%3Aamzn1.sym.d4978b9a-5243-45e6-8cda-2cbab7f4b27b&cv_ct_cx=musical+drum+kit&keywords=musical+drum+kit&pd_rd_i=B07WC3138P&pd_rd_r=5d750b70-3956-4640-8f2f-bd490e38acbd&pd_rd_w=wnjoD&pd_rd_wg=sCB7N&pf_rd_p=d4978b9a-5243-45e6-8cda-2cbab7f4b27b&pf_rd_r=V5YBJ9MCHKWPY7R0RD0S&qid=1661303140&sr=1-1-3db28678-d637-4b9f-b596-0fb441b1b408-spons&psc=1&smid=A1PZPD3QI86H0M&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzZGT0dOVjJMSDM0JmVuY3J5cHRlZElkPUEwNTQ4Mzg5MlpWTkxaRDNMUjRUViZlbmNyeXB0ZWRBZElkPUEwOTQ5NjgxOEo5VDk4MUo2SjVLJndpZGdldE5hbWU9c3Bfc2VhcmNoX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
 	Juego de batería Eastar de 14 pulgadas para principiantes, 3 piezas con trono ajustable, platillo, pedal y dos pares de baquetas, juego de batería junior con tambor de caja de graves, azul espejo	
 	US$159.99
-
 	
 	https://www.amazon.com/-/es/instrumento-educativo-tambores-platillo-taburete/dp/B09GG7SBPX/ref=sr_1_7?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=musical+drum+kit&qid=1661303140&sr=8-7
 	Rand Kit de batería de jazz para niños, juguete de instrumento educativo musical, 5 tambores + 1 platillo con palitos de tambor de taburete pequeño
@@ -60,46 +60,17 @@ GUITARRAS
 	First Act - Guitarra acústica (30.0 in), diseño de flores, cuerdas de guitarra acústica de latón, engranaje de afinación, cubiertas de postes de cuerda, cuello reforzado con acero, botones de correa - instrumentos musicales
 	US$34.99
 
-
-INSTRUMENTOS DE CUERDA
-
-PEDALES
-
-PERCUSIÓN
-
 TECLADOS
 	https://www.amazon.com/-/es/electr%C3%B3nico-micr%C3%B3fono-integrado-alimentaci%C3%B3n-principiantes/dp/B09YGG5WZ4/ref=sr_1_4?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=piano+keyboards&qid=1661303583&sr=8-4
 	Piano de teclado de 61 teclas, piano digital electrónico Camide con micrófono de altavoz integrado, soporte de hojas y fuente de alimentación, teclado portátil para regalo para principiantes
 	US$54.99
 
-	
 	https://www.amazon.com/-/es/Moukey-principiantes-electr%C3%B3nico-micr%C3%B3fono-alimentaci%C3%B3n/dp/B08VS5L9N9/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=piano+keyboards&qid=1661303583&sr=8-5
 	Moukey - Teclado, teclado con 54 teclas para principiantes, pantalla LCD grande, teclado electrónico portátil con micrófono, soporte de música, adhesivos y fuente de alimentación, color negro, perfecto regalo de Navidad
 	US$79.99
-
-VIENTOS
 
 CONTÁCTENOS
 
 
 
 
-
-
-<script src="https://kit.fontawesome.com/45a113a51d.js" crossorigin="anonymous"></script>
-<script src="https://kit.fontawesome.com/45a113a51d.js" crossorigin="anonymous"></script>
-
-carry
-<i class="fa-solid fa-dolly"></i>
-
-magnifiying glass
-<i class="fa-solid fa-magnifying-glass"></i>
-
-whatsapp
-<i class="fa-brands fa-whatsapp"></i>
-
-phone
-<i class="fa-solid fa-phone"></i>
-
-sendings
-<i class="fa-solid fa-van-shuttle"></i>
