@@ -3,30 +3,30 @@ body, * {
     margin: 0;
     padding: 0;
     /* outline: 1px solid red; */
+    font-size: 1em;
 }
 
 /* LOGO */
-.logo {
-    margin: auto;
-    display: block;
-}
 .imagen-encabezado{
     margin-top: 10px;
     padding-bottom: 5px;
     margin-bottom: 2px;
 }
+.logo {
+    margin: auto;
+    display: block;
+}
 
 
 /* NAV BAR */
 nav {
-    background-color:yellow;
+    background-color:aqua;
     border: 1px solid red;
     padding-top: 1px;
     padding-bottom: 1px;
     border: 2px solid black;
 }
 ul{
-    display: block;
     text-align: center;
 }
 li{
@@ -34,14 +34,18 @@ li{
     margin-right: 15px;
     margin-left: 15px;
 }
-nav li a:link{
+a{
+    text-decoration: none;
+    color: rgb(21, 87, 129);
+}
+a:link{
     text-decoration: none;
 }
-nav li a:visited{
+a:visited{
     text-decoration: none;
 }
-nav li a:hover{
+a:hover{
     text-decoration: none;
+    color: black;
+    background-color: rgb(14, 220, 189);
 }
-
-
