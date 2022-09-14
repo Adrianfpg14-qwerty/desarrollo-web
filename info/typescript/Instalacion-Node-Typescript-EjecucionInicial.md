@@ -23,9 +23,9 @@ descomentar version
 ```
 ```
 descomentar directorios
+	"rootDir": "./src",
 	"outFile": "./js/app.js",                   
 	"outDir": "./js",                           
-	"rootDir": "./src",
 ```
 ```
 comentar (module: commonjs)           
@@ -46,7 +46,7 @@ tsc -w
 ## ABRIR DOS TERMINALES (Ubicate en la ruta de cada uno de los archivos)
 ```
 Uno para compilar 
-	tsc -w 		(Dentro de src)	(Compila siempre en automatico)
+	tsc -w 		(Dentro de src)	(Compila siempre en automatico) (En la raiz del proyecto (Donde está el config o directamente entrando a la carpeta src))
 	tsc 				(Solo, para compilar una vez)
 ```
 ```
